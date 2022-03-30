@@ -1,0 +1,33 @@
+{
+  "name": "auth-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "base64-blob": "^1.4.1",
+    "based-blob": "^1.0.1",
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "blob": "^0.1.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "handlebars": "^4.7.7",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.0",
+    "node-blob": "0.0.2",
+    "nodemailer": "^6.6.5",
+    "nodemon": "^2.0.13",
+    "path": "^0.12.7",
+    "uuid": "^7.0.3"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
